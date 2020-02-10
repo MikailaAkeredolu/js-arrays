@@ -1,6 +1,6 @@
 
 // initialize the content of the text editor to some Javascript
-$("#editor").text(`//Type your code here`);
+$("#editor").text(`//Create an array of donuts, loop through and print them out`);
 
 // initialize the editor environment using the ace library
 var editor = ace.edit("editor");
